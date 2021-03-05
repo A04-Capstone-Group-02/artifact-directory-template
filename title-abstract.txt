@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Analyzing Movies Using Phrase Mining
 
 Abstract:
 <MY SUPER AWESOME PROJECT ABSTRACT>
